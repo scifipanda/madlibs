@@ -1,1 +1,2 @@
 # madlibs
+permalink: /index.html
